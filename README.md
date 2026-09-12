@@ -91,3 +91,8 @@ groww_mcp.py   MCP server exposing the account to Claude Code
   because they silently corrupt backtests.
 - A laptop is a poor host for unattended bots. `caffeinate` cannot defeat a
   closed lid on battery.
+
+## Licence
+
+[MIT](LICENSE) — with an additional notice on financial risk. The software is
+provided without warranty, and you are responsible for any trades it places.
