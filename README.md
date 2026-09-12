@@ -11,6 +11,23 @@ Two independent things live here:
 
 Read [METHODOLOGY.md](METHODOLOGY.md) before trusting any backtest number here.
 
+> **Not investment advice.** This is a personal research project, published
+> because the testing method may be useful to others — not because the results
+> are worth acting on.
+>
+> Every backtest figure here is **optimistic**. The universes are built from
+> *current* index constituents, so companies that failed out of the index are
+> missing; a partial correction cut mid-cap momentum returns by several points
+> and 14 delisted companies could not be recovered at all. Results also vary
+> by several percentage points depending on which month you start rebalancing.
+>
+> Three of the four strategies here **failed** their own validation and are
+> kept as controls. Indian markets carry 20% short-term capital gains tax,
+> which alone reduced one strategy's backtested CAGR from 25.5% to 21.2%.
+> SEBI found that **over 70% of individual intraday traders lose money**.
+>
+> If you use any of this, test it yourself and risk only what you can lose.
+
 ## Setup
 
 ```bash
