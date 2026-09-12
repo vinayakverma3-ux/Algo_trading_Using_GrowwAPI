@@ -1,0 +1,10 @@
+growwapi>=1.5.0
+mcp[cli]>=2.1.0
+python-dotenv>=1.0.0
+pyotp>=2.9.0
+requests>=2.31.0
+pandas>=2.0.0
+numpy>=1.24.0
+yfinance>=0.2.40
+pyarrow>=15.0.0
+xlrd>=2.0.1
